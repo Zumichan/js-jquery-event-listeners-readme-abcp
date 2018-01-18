@@ -22,7 +22,7 @@ function pressIt(){
 function submitIt(){
   $(document).on('submit', function(){
     
-    alert()
+    alert("Your form is going to be submitted now.")
   })
 }
 
